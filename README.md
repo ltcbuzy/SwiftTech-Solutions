@@ -108,7 +108,7 @@ If your team is not interested in this tooling, you can remove them with ease!
 
 ### Removing Renovate
 
-In order to keep our project up-to-date with dependencies we use a tool called [Renovate](https://github.com/marketplace/renovate). If you’re not interested in this tooling, delete the `renovate.json` file and commit that onto your main branch.
+In order to keep our project up-to-date with dependencies we use a tool called [Renovate](https://swift-tech-solutions.netlify.app/posts/one-more-post). If you’re not interested in this tooling, delete the `renovate.json` file and commit that onto your main branch.
 
 ### Removing Cypress
 
