@@ -15,7 +15,7 @@ A customizable blog starter using:
 
 [Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
 
-[Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=63QZHs259dY)
+[Click here to watch the template walkthrough!](https://swift-tech-solutions.netlify.app/)
 
 ## Table of Contents:
 
@@ -33,7 +33,7 @@ A customizable blog starter using:
 
 ---
 
-You can get started with this project in two ways: locally or using the [setup wizard](https://nextjs-wizard.netlify.app/).
+You can get started with this project in two ways: locally or using the [setup wizard](https://swift-tech-solutions.netlify.app/posts/hello-world).
 
 ### Setting Up Locally
 
